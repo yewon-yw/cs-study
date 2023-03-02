@@ -15,7 +15,7 @@
   - 예) 서버, 컴퓨터, 스마트폰
 - Network Core
 - lastmile
-<br>![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69c67813-1de0-4101-abd9-2cc8510ec737/Untitled.png)
+<br>![image](https://user-images.githubusercontent.com/101886039/222496108-e3bd99e8-ef54-41f1-b6f5-a3c7cd7bf163.png)
 <br><br>
 
 ### Network Edge의 역사
@@ -35,7 +35,7 @@
     - splitter 존재해서 전화국까지의 선은 공유하지만 전화가 오는 신호와 DSL에서 사용하는 신호에는 차이가 있음
     - 1~8Mbps 전송률
     - 비용은 줄이고 전송률은 더 극대화!
-    - ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8503ddf9-f19e-40c3-9258-1633b72298c8/Untitled.png)
+    - ![image](https://user-images.githubusercontent.com/101886039/222496223-d612cd4b-5040-405a-ac9c-0a84030c0c3b.png)
     - [DSL 더 알아보기](https://ko.wikipedia.org/wiki/%EB%94%94%EC%A7%80%ED%84%B8_%EA%B0%80%EC%9E%85%EC%9E%90_%ED%9A%8C%EC%84%A0)
     - dedicated channel(전용채널)
   - 케이블 모뎀
@@ -107,4 +107,3 @@
 - 인터넷 5계층
   - 응용계층(응용, 표현, 세션 계층을 하나로 묶음)
   - ...
-- 
