@@ -2,18 +2,9 @@
 [추가 정리](https://graceful-coriander-375.notion.site/week-2-f0cff7f4bfba49f58408cf30aa8a37a6)
 ### Circuit Switching
 - 음성같은 데이터에 유리(꾸준한 데이터)
-![image](https://user-images.githubusercontent.com/101886039/224247606-3ba720c3-2bcb-4bd0-b82f-c3131cd77427.png)
 
 ### Packet Switching
 - 고장에 좀 더 자유로움
-![image](https://user-images.githubusercontent.com/101886039/224247568-8ec8a7e8-b068-42a1-985b-ce8513a32d6e.png)
-
-<br>
-
-[내용 참고](https://bnzn2426.tistory.com/m/55)
-<br>
-
-[이미지 참고](https://swalloow.tistory.com/55)
 
 ### 네트워크 품질 척도
 - 속도
@@ -55,43 +46,34 @@
 - 분산된 시스템을 하나의 통합된 응용시스템으로 묶어주는 계층
 - 예) 구글 검색 시스템, 종합 정보 시스템, 네이버 웹툰, lol ...
 1. 애플리케이션 계층
-   ![image](https://user-images.githubusercontent.com/101886039/224248195-e69799e2-802a-4a47-bfdd-6dab5291ca77.png)
    
 2. presentation 계층
    - 분산된 응용의 표현 방법에 대한 규약
    - HTML(Hyper Text Markup Language)
    - UI
-   ![image](https://user-images.githubusercontent.com/101886039/224248225-a7b97217-6c19-4722-8a1f-dee3568e291f.png)
-
+  
 3. 세선(session layer)
    - 접속을 해서 접속이 끝날때까지 유지
    - 응용의 접속 및 통신의 방법과 관련된 규약
    - HTTP
    - 객체 교환
-   ![image](https://user-images.githubusercontent.com/101886039/224248270-7d0a23c4-f464-4892-9415-f729c044792b.png)
 
 4. 전송(transport layer) - 비서 
    - 품질 보장
    - 신뢰성 품질 제공
-   ![image](https://user-images.githubusercontent.com/101886039/224248318-1a5baee6-cf42-474d-b285-e3e07c0c2716.png)
 
 5. 네트워크(network layer) - 우체국
    - 경로 설정
    - 네트워크 코어, swtich, 교환기?
    - 양 끝단으로의 전달
    - 패킷을 끝에서 끝으로 경로를 설정해서 전송할것인지
-   ![image](https://user-images.githubusercontent.com/101886039/224248364-27c3c46b-1bd7-4e72-92d5-9e135b3574ab.png)
 
 6. 링크(link layer)
    - 다음 단으로의 전달 책임
    - 패킷의 한 합의 전송을 책임지는 layer
-   ![image](https://user-images.githubusercontent.com/101886039/224248416-c8b88688-3510-4de9-9970-6f0a7b325649.png)
 
 7. 물리 계층 - 자동차, 도로 
-   ![image](https://user-images.githubusercontent.com/101886039/224248455-5a3008b0-f4c4-4b39-86fd-4dbace604967.png)
 
-[이미지 및 내용 출처](https://www.cloudflare.com/ko-kr/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-<br>
 <br>
 
 ### 응용 계층
